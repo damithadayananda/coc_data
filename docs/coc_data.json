@@ -116,7 +116,41 @@
     }
   },
   "builder_base": {
-
+  	"9":[
+  		{
+          "id": 2,
+          "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH9%3ABB%3AAAAAVwAAAAEeGYF877ZhUPjYFOxNxO-Z",
+          "image_link":"https://clashofclans-layouts.com/pics/bh9_plans/defence/original/bh9_defence_43.jpg"
+        }
+  	],
+  	"8":[
+  		{
+          "id": 2,
+          "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH8%3ABB%3AAAAAFwAAAAHfNIuBbIbj86J0G4eAj_pa",
+          "image_link":"https://clashofclans-layouts.com/pics/bh8_plans/defence/original/bh8_defence_26.jpg"
+        }
+  	],
+  	"7":[
+  		{
+          "id": 2,
+          "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH7%3ABB%3AAAAASAAAAAFMdFj670H5duu-9i1eFJFs",
+          "image_link":"https://clashofclans-layouts.com/pics/bh7_plans/defence/original/bh7_defence_44.jpg"
+        }
+  	],
+  	"6":[
+  		{
+          "id": 2,
+          "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH6%3ABB%3AAAAAKwAAAAHEyqgiU8Cf7GweTnNEW73X",
+          "image_link":"https://clashofclans-layouts.com/pics/bh6_plans/defence/original/bh6_defence_31.jpg"
+        }
+  	],
+  	"5":[
+  		{
+          "id": 2,
+          "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH5%3ABB%3AAAAAAQAAAAI4_sN7K5g1FSv3TjLHIf_g",
+          "image_link":"https://clashofclans-layouts.com/pics/bh5_plans/defence/original/bh5_defence_60.jpg"
+        }
+  	]
   },
   "funny_layout": {
 
