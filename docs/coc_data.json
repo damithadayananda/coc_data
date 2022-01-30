@@ -153,7 +153,38 @@
   	]
   },
   "funny_layout": {
+  	  "14": [
+        {
+          "id": 1,
+          "link": "https://link.clashofclans.com/es?action=OpenLayout&id=TH14%3AHV%3AAAAAVgAAAAFITgMlzqvHnf4xby-HsIPt",
+          "image_link":"https://api.clasher.us/images/full/v2-61dd3ba8e23aaa04fbc256e4.jpg"
+        }
+      ],
+      "13": [
+      	{
+          "id": 2,
+          "link": "https://link.clashofclans.com/en?action=OpenLayout&id=TH13%3AHV%3AAAAANwAAAAGfJzgNfccNUuDqU2aPPTy6",
+          "image_link":"https://api.clasher.us/images/full/609f7d254e896104cb951dcd.jpg"
+        }
+      ],
+      "12": [
 
+      ],
+      "11": [
+
+      ],
+      "10": [
+
+      ],
+      "9": [
+
+      ],
+      "8": [
+
+      ],
+      "7": [
+
+      ]
   },
   "news": [
     {
